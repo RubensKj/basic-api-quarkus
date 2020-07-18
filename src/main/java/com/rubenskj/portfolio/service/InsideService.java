@@ -8,7 +8,7 @@ public class InsideService {
 
     private String id;
 
-    private InsideService() {
+    InsideService() {
         this.id = UUID.randomUUID().toString();
     }
 
