@@ -1,4 +1,4 @@
-# portfolio project
+# Basic Quarkus API
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
